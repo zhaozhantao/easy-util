@@ -1,0 +1,22 @@
+{
+  "name": "easy-util",
+  "version": "1.0.0",
+  "description": "A private utils class library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaozhantao/easy-util.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "zhaozhantao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaozhantao/easy-util/issues"
+  },
+  "homepage": "https://github.com/zhaozhantao/easy-util#readme"
+}
